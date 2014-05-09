@@ -1,7 +1,7 @@
 #lang racket
 (require ragg/examples/python-grammar
          ragg/support
-         (planet dyoo/python-tokenizer)
+         python-tokenizer
          racket/generator
          parser-tools/lex
          racket/match
