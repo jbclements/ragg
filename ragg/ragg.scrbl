@@ -812,9 +812,9 @@ kvpair: ID ":" json
 }
 ]
 
-The @link["https://github.com/dyoo/ragg"]{ragg github source repository}
+The @link["https://github.com/jbclements/ragg"]{ragg github source repository}
 includes
-@link["https://github.com/dyoo/ragg/tree/master/ragg/examples"]{several more
+@link["https://github.com/jbclements/ragg/tree/master/ragg/examples"]{several more
 examples}.
 
 
